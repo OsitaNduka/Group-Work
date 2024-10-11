@@ -10,7 +10,7 @@
 
 ### 🍎🥖 **Introducing WasteNot: A Community-Driven Solution to Reduce Food Waste and Feed Those in Need** 🥕🍞
 
-**[City, State]** — WasteNot, a new mobile app 🆕📲 designed to connect local stores with surplus perishable items 🥗🍲 to community members in need, launches today with a mission to fight food waste ♻️ and hunger 🍽️ simultaneously. WasteNot provides an easy-to-use platform for retailers 🏪 to donate items approaching their expiration date, ensuring that good food 🥑🥛 is put to use instead of being discarded.
+**London, United Kingdom** — WasteNot, a new mobile app 🆕📲 designed to connect local stores with surplus perishable items 🥗🍲 to community members in need, launches today with a mission to fight food waste ♻️ and hunger 🍽️ simultaneously. WasteNot provides an easy-to-use platform for retailers 🏪 to donate items approaching their expiration date, ensuring that good food 🥑🥛 is put to use instead of being discarded.
 
 ![alt text](image-2.png)
 
@@ -67,4 +67,4 @@ For more information, visit [WasteNot Website] 🌐 or download the app from [Ap
 
 --- 
 
-By adding emojis, visuals, and a more vibrant presentation, this press release becomes more engaging and visually appealing, attracting attention to the launch of WasteNot!
+# WasteNot! Feed the Community ![alt text](image-3.png)
