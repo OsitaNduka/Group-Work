@@ -1,3 +1,6 @@
+![alt text](image-5.png)
+https://www.bbc.co.uk/news/topics/cr58gnj8zzxt
+
 ### **WasteNot: Problem and Opportunity Analysis (UK-based)** 🇬🇧
 
 #### **1. What is the problem or opportunity?**
