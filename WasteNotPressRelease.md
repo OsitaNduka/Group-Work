@@ -1,10 +1,10 @@
 ![alt text](image.png)
 
 **FOR IMMEDIATE RELEASE**  
-📞 Contact: [Your Name]  
-📧 Email: [Your Email]  
-📱 Phone: [Your Phone Number]  
-📅 Date: [Today's Date]
+📞 Contact: WasteNot Team  
+📧 Email: team@wastenot.com  
+📱 Phone: + 44 11 22 33 44  
+📅 Date: 11-10-2024
 
 ---
 
@@ -18,7 +18,7 @@
 
 Every year, millions of pounds of perfectly edible food 🍎🥦 are thrown away by supermarkets, grocery stores, and restaurants simply because they are nearing their expiration date ⏳. WasteNot aims to change that by allowing stores to give back to their communities ❤️. Participating retailers can quickly list perishable items on the WasteNot app, making them available to individuals and charitable organizations who can pick them up for free.
 
-> “With WasteNot, we’re making it easy for stores to play an active role in reducing food waste while also providing support to those who need it most,” said [Your Name], Founder and CEO of WasteNot. “Our goal is to create a sustainable solution 🌿 that benefits both businesses and the community. No food should be wasted when there are people in need.”
+> “With WasteNot, we’re making it easy for stores to play an active role in reducing food waste while also providing support to those who need it most,” said WasteNot, Founder and CEO of WasteNot. “Our goal is to create a sustainable solution 🌿 that benefits both businesses and the community. No food should be wasted when there are people in need.”
 
 ---
 
@@ -38,7 +38,7 @@ WasteNot simplifies the process for both stores and users:
 
 Food waste is a growing global issue 🌍, with estimates showing that nearly 30-40% of the food supply in the U.K. is wasted 🚯. WasteNot is designed to address this problem on a local level, creating a community-driven ecosystem that encourages sustainable practices 🌱, reduces environmental impact 🏞️, and tackles food insecurity 🤝.
 
-> “Our vision for WasteNot is to build stronger, more resilient communities 💪,” said [Your Name]. “By helping businesses redistribute surplus food and ensuring it doesn’t go to waste 🚮, we’re providing real solutions to hunger and waste reduction.”
+> “Our vision for WasteNot is to build stronger, more resilient communities 💪,” said WasteNot. “By helping businesses redistribute surplus food and ensuring it doesn’t go to waste 🚮, we’re providing real solutions to hunger and waste reduction.”
 
 ---
 
@@ -51,15 +51,15 @@ For more information, visit [WasteNot Website] 🌐 or download the app from [Ap
 ---
 
 ### **About WasteNot**  
-**WasteNot** is a mobile app dedicated to reducing food waste 🌾 and hunger 🍽️ by connecting stores with surplus perishable items 🛒 to people in need. Founded in [Year], WasteNot’s mission is to ensure that good food never goes to waste ❌🥦 and always finds its way to someone who can benefit from it.
+**WasteNot** is a mobile app dedicated to reducing food waste 🌾 and hunger 🍽️ by connecting stores with surplus perishable items 🛒 to people in need. Founded in 2024, WasteNot’s mission is to ensure that good food never goes to waste ❌🥦 and always finds its way to someone who can benefit from it.
 
 ---
 
 ### **Media Contact** 📞  
 **WesteNot Team**   
-📧 [Your Email Address]  
-📱 [Your Phone Number]  
-🌐 [WasteNot Website URL]
+📧 team@wastenot.com  
+📱 + 44 11 22 33 44  
+🌐 WasteNot.com
 
 
 
