@@ -36,7 +36,7 @@ WasteNot simplifies the process for both stores and users:
 
 ### **Fighting Food Waste, One Donation at a Time** ♻️🍽️
 
-Food waste is a growing global issue 🌍, with estimates showing that nearly 30-40% of the food supply in the U.S. is wasted 🚯. WasteNot is designed to address this problem on a local level, creating a community-driven ecosystem that encourages sustainable practices 🌱, reduces environmental impact 🏞️, and tackles food insecurity 🤝.
+Food waste is a growing global issue 🌍, with estimates showing that nearly 30-40% of the food supply in the U.K. is wasted 🚯. WasteNot is designed to address this problem on a local level, creating a community-driven ecosystem that encourages sustainable practices 🌱, reduces environmental impact 🏞️, and tackles food insecurity 🤝.
 
 > “Our vision for WasteNot is to build stronger, more resilient communities 💪,” said [Your Name]. “By helping businesses redistribute surplus food and ensuring it doesn’t go to waste 🚮, we’re providing real solutions to hunger and waste reduction.”
 
