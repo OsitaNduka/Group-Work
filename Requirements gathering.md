@@ -88,6 +88,7 @@ Here's an enhanced version of the AWS architecture for the **WasteNot App**, com
 - **AWS Lambda Auto Scaling** 🌱: Automatically scales up based on event-driven demand, ensuring efficient resource usage.
 
 ---
+![alt text](image-6.png)
 
 ### **Diagram Description** 🖼️
 
