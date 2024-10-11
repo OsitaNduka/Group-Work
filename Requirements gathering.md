@@ -45,3 +45,89 @@ The **WasteNot app** will be designed with the following key features:
 - **Gamification Features** 🎮: Stores can earn badges or incentives based on how much food they donate, encouraging more businesses to participate and improve their sustainability efforts.
 
 This design ensures that **WasteNot** aligns with the goals of reducing food waste, helping those in need, and promoting sustainability throughout the UK.
+
+Here's an enhanced version of the AWS architecture for the **WasteNot App**, complete with emojis and an overview diagram description:
+
+### **AWS Architecture for WasteNot App** 🛠️🍽️♻️
+
+#### **1. Frontend: Web & Mobile Application** 🌐📱
+- **Amazon CloudFront** 🌍: A content delivery network (CDN) ensuring fast access to static assets like images and code across the UK.
+- **Amazon S3** 🗂️: Used for storing static files such as images, CSS, and HTML for the web app.
+
+#### **2. Backend: API and Business Logic** 💻
+- **Amazon API Gateway** 🔌: Acts as the entry point for all API requests, connecting the app to backend services.
+- **AWS Lambda** ⚙️: Serverless compute service to handle functions like uploading food data, retrieving available food items, and managing sessions.
+- **Amazon EC2** 🖥️ (Optional): For heavier custom tasks, such as image processing or running machine learning models.
+
+#### **3. Database & Storage** 💾
+- **Amazon RDS** 🗃️: Stores structured data like user profiles, food items, and donation history.
+- **Amazon DynamoDB** 🗂️: For fast access to unstructured or real-time data like user sessions.
+- **Amazon S3** 🖼️: For uploading and storing images of food posted by stores.
+
+#### **4. Authentication & User Management** 👥
+- **Amazon Cognito** 🔐: Manages user authentication, sign-up/sign-in, and access control. Supports third-party providers like Google for social logins.
+
+#### **5. Notifications and Communication** 📢
+- **Amazon SNS** 🔔: Sends notifications to users about available food items near them.
+- **Amazon SES** ✉️: Sends emails for updates, pickup reminders, or new food postings.
+
+#### **6. Monitoring & Logging** 📊
+- **Amazon CloudWatch** 🕵️: Monitors app performance, such as API latency or Lambda function errors.
+- **AWS X-Ray** 🔍: Tracks the performance of requests, helping identify bottlenecks.
+
+#### **7. Security** 🛡️
+- **AWS WAF** 🧱: Protects the app from attacks like SQL injection or DDoS.
+- **AWS Shield** 🛡️: Provides DDoS protection to keep the app available during high-traffic times.
+
+#### **8. Data Backup and High Availability** 📈
+- **Amazon RDS Multi-AZ** 🌐: Ensures high availability with automatic failover across availability zones.
+- **Amazon S3 Cross-Region Replication** 🔄: Ensures critical data is backed up across different AWS regions.
+
+#### **9. Scaling** 📏
+- **AWS Auto Scaling** 🔄: Automatically adjusts EC2 instances to handle increased traffic during peak times.
+- **AWS Lambda Auto Scaling** 🌱: Automatically scales up based on event-driven demand, ensuring efficient resource usage.
+
+---
+
+### **Diagram Description** 🖼️
+
+1. **Frontend (Web & Mobile App)**:
+   - Users access the app via **Amazon CloudFront** (CDN), which retrieves content from **Amazon S3** (static files).
+   
+2. **API & Backend**:
+   - User requests go through **Amazon API Gateway** to reach the serverless **AWS Lambda** functions.
+   - For heavy processes, EC2 instances can be spun up.
+
+3. **Databases**:
+   - Structured data is stored in **Amazon RDS** while real-time or unstructured data is stored in **Amazon DynamoDB**.
+   - Food images and other media are stored in **Amazon S3**.
+
+4. **User Authentication**:
+   - Users authenticate via **Amazon Cognito** for secure access.
+
+5. **Notifications**:
+   - **Amazon SNS** handles push notifications to users, while **Amazon SES** manages email alerts.
+
+6. **Security & Monitoring**:
+   - **AWS WAF** and **AWS Shield** protect the app, while **Amazon CloudWatch** and **AWS X-Ray** monitor and log performance metrics.
+
+7. **Scaling & Availability**:
+   - Auto Scaling ensures the app scales according to traffic and usage, keeping it performant during high-demand periods.
+
+---
+
+### Example Diagram:
+
+Imagine the architecture as an interconnected flow of components:
+
+```
+Users (Mobile/Web) 🌐 → CloudFront 🌍 → API Gateway 🔌 → Lambda ⚙️ → Databases (RDS 🗃️ / DynamoDB 🗂️) → Storage (S3 🖼️)
+⬆️                                              
+Authentication via Cognito 🔐 → Notification via SNS 📢 / SES ✉️
+⬆️                                             
+Security via WAF 🧱 and Shield 🛡️ | Monitoring via CloudWatch 📊 and X-Ray 🔍
+⬆️                                             
+Scaling via Auto Scaling 🔄
+```
+
+This architecture ensures a secure, scalable, and efficient platform for WasteNot to help the UK reduce food waste and support communities in need.
