@@ -12,7 +12,7 @@
 
 **[City, State]** — WasteNot, a new mobile app 🆕📲 designed to connect local stores with surplus perishable items 🥗🍲 to community members in need, launches today with a mission to fight food waste ♻️ and hunger 🍽️ simultaneously. WasteNot provides an easy-to-use platform for retailers 🏪 to donate items approaching their expiration date, ensuring that good food 🥑🥛 is put to use instead of being discarded.
 
-![Image of a store employee packing surplus food for donation through the WasteNot app](https://via.placeholder.com/800x400)
+![alt text](image-2.png)
 
 ### **Empowering Stores and Strengthening Communities** 🏘️
 
@@ -30,7 +30,7 @@ WasteNot simplifies the process for both stores and users:
   
 - **For Community Members** 👨‍👩‍👧‍👦: Individuals, non-profits, and food banks can browse available items in real-time ⏱️, claim what they need ✅, and arrange for pickup at their convenience 🚗. Whether it’s fresh produce 🥦, baked goods 🥖, or prepared meals 🍲, WasteNot helps put food in the hands of those who can use it.
 
-![Image of a person picking up donated food items through the WasteNot app](https://via.placeholder.com/800x400)
+![alt text](image-1.png)
 
 ---
 
