@@ -91,6 +91,8 @@ By focusing on these key areas and assigning roles effectively, you can ensure t
 
 Here's a security flowchart illustrating how AWS solutions can prevent a future data breach:
 
+# Security Flowchart
+
 ![alt text](SecurityFlowchart.png)
 
 1. **Data Breach**: The initial problem where sensitive customer data was exposed.
