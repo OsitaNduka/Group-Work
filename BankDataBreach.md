@@ -161,3 +161,53 @@ We propose implementing a comprehensive solution that addresses the bank’s con
 AWS tools such as IAM, GuardDuty, Auto Scaling, CloudWatch, and Lambda will provide the robust, scalable, and secure infrastructure the bank needs to regain stability and protect customer data.
 Confidence:
 With AWS’s powerful suite of tools, the bank will not only improve system performance and security but also foster long-term operational efficiency. 🔒💻📊
+
+# Programatically Solution
+
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+
+# Create figure and axis
+fig, ax = plt.subplots(figsize=(10, 6))
+
+# Step 1: Initial breach (top)
+ax.text(0.5, 0.9, 'Data Breach\nSensitive customer data exposed', 
+        ha='center', va='center', fontsize=12, bbox=dict(facecolor='red', alpha=0.5))
+
+# Arrow from Step 1 to Step 2
+ax.annotate('', xy=(0.5, 0.85), xytext=(0.5, 0.75), 
+            arrowprops=dict(facecolor='black', shrink=0.05))
+
+# Step 2: IAM Implementation
+ax.text(0.5, 0.7, 'AWS IAM\nRole-based access control', 
+        ha='center', va='center', fontsize=12, bbox=dict(facecolor='lightblue', alpha=0.5))
+
+# Arrow from Step 2 to Step 3
+ax.annotate('', xy=(0.5, 0.65), xytext=(0.5, 0.55), 
+            arrowprops=dict(facecolor='black', shrink=0.05))
+
+# Step 3: AWS GuardDuty
+ax.text(0.5, 0.5, 'AWS GuardDuty\nThreat detection & monitoring', 
+        ha='center', va='center', fontsize=12, bbox=dict(facecolor='lightblue', alpha=0.5))
+
+# Arrow from Step 3 to Step 4
+ax.annotate('', xy=(0.5, 0.45), xytext=(0.5, 0.35), 
+            arrowprops=dict(facecolor='black', shrink=0.05))
+
+# Step 4: AWS KMS Encryption
+ax.text(0.5, 0.3, 'AWS KMS\nData encryption', 
+        ha='center', va='center', fontsize=12, bbox=dict(facecolor='lightblue', alpha=0.5))
+
+# Arrow from Step 4 to Step 5
+ax.annotate('', xy=(0.5, 0.25), xytext=(0.5, 0.15), 
+            arrowprops=dict(facecolor='black', shrink=0.05))
+
+# Step 5: Multi-Factor Authentication (MFA)
+ax.text(0.5, 0.1, 'Multi-Factor Authentication (MFA)\nSecuring critical accounts', 
+        ha='center', va='center', fontsize=12, bbox=dict(facecolor='lightblue', alpha=0.5))
+
+# Hide axes
+ax.axis('off')
+
+# Show flowchart
+plt.show()
