@@ -12,7 +12,7 @@ Recall what you have learned, and answer the following questions:
   
 - **SaaS (Software as a Service)**: 📲 Delivers fully functional software applications over the internet, with the provider managing the infrastructure. Users just use the software. Examples include services like Google Workspace or AWS WorkMail.
 
-![alt text](image-7.png)
+![alt text](iaas_paas_saas.png)
 ---
 
 ### 2. **What are the advantages of cloud computing?** ☁️✨
@@ -23,20 +23,20 @@ Recall what you have learned, and answer the following questions:
 - **Security**: 🔐 Advanced security features such as encryption, firewalls, and compliance certifications.
 - **Automatic Updates**: 🔄 Infrastructure and software updates are managed by the provider.
 
-![alt text](image-8.png)
+![alt text](cloud_benefits.png)
 
 ---
 
 ### 3. **What is an AWS Region?** 🌍
 An **AWS Region** is a geographical area where AWS has multiple data centers or Availability Zones. Each region is isolated from other regions to provide greater fault tolerance and reduce latency. AWS customers can choose regions based on proximity, legal requirements, and compliance needs.
 
-![alt text](image-9.png)
+![alt text](aws_regions.png)
 ---
 
 ### 4. **What is an Availability Zone?** 🏢
 An **Availability Zone (AZ)** is a discrete data center within an AWS Region, with independent power, cooling, and networking. Regions usually have multiple Availability Zones, which are connected by low-latency links. This allows users to run fault-tolerant applications with high availability by distributing resources across AZs.
 
-![alt text](image-10.png)
+![alt text](azVSregion.png)
 ---
 
 ### 5. **What are all the AWS Regions?** 🗺️
