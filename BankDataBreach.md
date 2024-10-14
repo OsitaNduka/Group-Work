@@ -99,6 +99,8 @@ Here's a security flowchart illustrating how AWS solutions can prevent a future 
 4. **AWS KMS**: Encrypt sensitive customer data using AWS Key Management Service (KMS) to protect it from unauthorized access.
 5. **Multi-Factor Authentication (MFA)**: Add an extra layer of security to critical user accounts.
 
+# System Stability Diagram
+
 ![alt text](SystemStability.png)
 
 This flow represents how the combination of these AWS tools can prevent future breaches and enhance overall security.
