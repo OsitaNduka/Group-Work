@@ -116,7 +116,7 @@ Here's an enhanced version of the AWS architecture for the **WasteNot App**, com
    - Auto Scaling ensures the app scales according to traffic and usage, keeping it performant during high-demand periods.
 
 ---
-![alt text](AWS_Architecture.PNG)
+![alt text](WasteNotWebsite.PNG)
 
 ### Example Diagram:
 
