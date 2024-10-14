@@ -12,7 +12,7 @@ Recall what you have learned, and answer the following questions:
   
 - **SaaS (Software as a Service)**: 📲 Delivers fully functional software applications over the internet, with the provider managing the infrastructure. Users just use the software. Examples include services like Google Workspace or AWS WorkMail.
 
-![alt text](IaaS_PaaS_SaaS.png)
+![alt text](iaas_paas_saas.png)
 ---
 
 ### 2. **What are the advantages of cloud computing?** ☁️✨
