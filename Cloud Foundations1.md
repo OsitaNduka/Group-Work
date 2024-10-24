@@ -1,4 +1,5 @@
 ![alt text](cloud2.png)
+
 **AWS Cloud Foundations –Two fact finding exercise** 
 1.Explain the AWS Shared responsibility model.
 2.Explain an AWS Identity and Access Management (IAM) Role.
@@ -63,6 +64,7 @@ Subnets (Public and Private) 🏢
 Route Tables 🛣️
 Internet Gateways 🌍
 NAT Gateways 🔒
+
 **7. Differentiate between a Public and a Private Subnet:**
 Public Subnet 🌐:
 Connected to the internet through an Internet Gateway, allowing resources like EC2 instances to be accessed from the internet (with public IPs).
