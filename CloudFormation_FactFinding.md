@@ -1,11 +1,11 @@
 AWS CloudFormation fact finding exercise 
-1.What is Configuration Orchestration?
-2.What is Configuration Management? List some commonly used tools for Configuration Management.
-3.What is Continuous Integration?
-4.What is Continuous Delivery?
-5.What is AWS CloudFormation? List 3 advantages of CloudFormation.
-6.What is JSONand YAML? List 3 differences between them.
-7.What is a stackin AWS CloudFormation?Fact finding exerciseAnswer the questions shown in this slide using your own words
+**1.What is Configuration Orchestration?**
+**2.What is Configuration Management? List some commonly used tools for Configuration Management.**
+**3.What is Continuous Integration?**
+**4.What is Continuous Delivery?**
+**5.What is AWS CloudFormation? List 3 advantages of CloudFormation.**
+**6.What is JSONand YAML? List 3 differences between them.**
+**7.What is a stackin AWS CloudFormation?**
 
 ![alt text](CloudFormation-1.png)
 
